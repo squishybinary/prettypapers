@@ -1,0 +1,15 @@
+This is the length of a continuous Kindle Page, at Third's settings
+With 70 ruler, every 7/8th line break into two.
+
+what is now the Yucatan Peninsula 66 million years ago? Were the few winners survived the mass extinction event just lucky? Or did they have traits somehow made them better suited to survive the decades-long impact winter that followed? And if the latter, which traits were favored or disfavored? Ecologists studying contemporary extinctions have been asking these sorts of questions for decades and have devised a number of statistical tools to disentangle the two roads towards extinction. However, similar approaches have not been so forthcoming in paleoecology, in which data are often incomplete. In this issue of PLOS Biology, Blonder and colleagues overcome this barrier by combining modern ecological approaches with data from a diverse and exceptionally well-preserved set of fossilized plant leaves from North Dakota (United States) that spanned a 2.2 million-year period bracketing the K–Pg mass extinction event (Figure 1).
+
+Changed and Kept :
+	Keep Fact Layout (indentation related)
+	Line Height (changed 120 to 130)
+	Group <h6>
+	<h2>
+
+To Do :
+	Split paragraphs using <br>
+	<br> for new line. Use with <h6>
+	<pre> for formatted as written in text editor <pre>

@@ -1,0 +1,466 @@
+<h1> Social Network Analysis Shows Direct Evidence for Social
+Transmission of Tool Use in Wild Chimpanzees </h1>
+
+<h2> Catherine Hobaiter,Timothee Poisot, Klaus Zuberbuhler, William Hoppitt, Thibaud Gruber. </h2>
+
+<p> 1 School of Psychology and Neuroscience, St Andrews, Scotland <br>
+2 Budongo Conservation Field Station, Uganda <br>
+3 Departement de Biologie, Universite du Quebec a Rimouski, Canada <br> 
+4 Quebec Centre for Biodiversity Sciences, Montreal, Canada <br>
+5 Department of Comparative Cognition, University of Neuchatel, Switzerland <br>
+6 Animal and Environment Research Group, Anglia Ruskin
+University, Cambridge.</p>
+
+<h1>Abstract</h1>
+
+<p>Social network analysis methods have made it possible to test whether novel behaviors in animals spread through individual or social learning. To date, however, social network analysis of wild populations has been limited to static models that cannot precisely reflect the dynamics of learning, for instance, the impact of multiple observations across time. Here, we present a novel dynamic version of network analysis that is capable of capturing temporal aspects of acquisition—that is, how successive observations by an individual influence its acquisition of the novel behavior. We apply this model to studying the spread of two novel tool-use variants, ‘‘moss-sponging’’ and ‘‘leaf-sponge re-use,’’ in the Sonso chimpanzee
+community of Budongo Forest, Uganda. <br> Chimpanzees are widely considered the most ‘‘cultural’’ of all animal species, with
+39 behaviors suspected as socially acquired, most of them in the domain of tool-use. The cultural hypothesis is supported by experimental data from captive chimpanzees and a range of observational data. However, for wild groups, there is still
+no direct experimental evidence for social learning, nor has there been any direct observation of social diffusion of behavioral innovations. Here, we tested both a static and a dynamic network model and found strong evidence that diffusion patterns of moss-sponging, but not leaf-sponge re-use, were significantly better explained by social than individual learning. <br> The most conservative estimate of social transmission accounted for 85% of observed events, with an estimated 15-fold increase in learning rate for each time a novice observed an informed individual moss-sponging.We conclude that group-specific behavioral variants in wild chimpanzees can be socially learned, adding to the evidence that
+this prerequisite for culture originated in a common ancestor of great apes and humans, long before the advent of modern
+humans.</p>
+
+<h1>Introduction</h1>
+
+<p>Progress in network analysis has made it possible to test whether
+the spread of novel behaviors in animal groups has occurred through individual learning or social transmission [1–5]. This method has been successfully applied in several species, including primates [3,6,7]. One particularly relevant example was the social spread of a novel foraging technique, lobtail feeding, in humpback whales (Megaptera novaeangliae), detected through Network-Based Diffusion Analysis (NBDA) [8]. The NBDA technique tests whether or not a novel behavior spreads along a social network, as would be expected if social transmission were involved [2,8].Although powerful, one important limitation of NBDA as it has been used so far in animal behavior studies is that it treats social networks as static.</p> 
+
+<p>Static networks based directly on observations of the target behavior do not have a time dimension and so do not take into account the fact that an observation event can only influence the subsequent, and not the previous, rate of learning of the novel behavior (see Materials and Methods for an example). In if observation conditions allow for documentation of contrast,
+individuals that have witnessed specific events of the target
+behavior, then a dynamic network can be used. Dynamic networks
+change to reflect the time course of the observations and are
+therefore more powerful than static networks, by tracing which
+individuals are likely to have observed the novel behavior across
+time.</p>
+
+<p> Here, we developed a novel version of NBDA that relies on
+instances of actual demonstrations of the novel behavior across time, rather than employing patterns of association as a proxy for
+demonstrations. We applied this method to two novel tool-use
+behaviors that appeared in the Sonso chimpanzee community of
+the Budongo Forest, Uganda (Pan troglodytes schweinfurthii). Our
+findings allowed us to directly address one persistent criticism
+faced by the hypothesis that chimpanzee behavioral diversity
+should be interpreted as cultural: the lack of direct evidence for
+social transmission of novel behaviors in the wild [9].</p>
+
+<p> Claims of culture in animals are usually based on excluding
+genetic or ecological explanations for group-specific behavioral
+variation, the ‘‘exclusion method’’ [10–15]. Although widely used
+in animal behavior this method is vulnerable to counterarguments that seek to explain behavioral variation by genetic factors or with the local ecology [16]. Chimpanzees play a key role in this literature [10], with substantial indirect evidence for social transmission of behavioral innovations [17–21]. A good illustration is the presence or absence of nut-cracking in East and West African populations and in some neighbouring West African groups [22]. </p>
+
+<p>Studies in the wild have also found that the environment does play an important role in explaining some differences, notably by triggering behavioral innovation, the raw material for subsequent social transmission. However, environmental differences cannot account for all of the observed variation, suggesting a role for social learning processes [23–27]. In captivity, the evidence for social learning and transmission of novel behavior is undisputed, suggesting that the observed behavioral variation in the wild is an expression of culture in chimpanzees [28–34]. Nevertheless, skepticism has remained, as it is difficult to rule out an unmeasured ecological variable as the cause of observed group
+differences.</p>
+
+<p>In addition, there have been no direct demonstrations of novel behavior spreading socially within a wild chimpanzee group, and it has remained unclear whether similar learning mechanisms are at work in humans and other animals, rendering it hard to draw evolutionary inferences on whether chimpanzee and human cultures may result from fundamentally similar or different acquisition processes [16,35–37]. This ambiguity could be resolved by testing whether the spread of novel behavior follows the pathway predicted by social transmission.</p>
+
+<p> Leaf-sponging in chimpanzees is considered a behavioral
+universal [10], but there is considerable variation in how this
+technique is used in different communities [38]. The behavior is
+customary in the Sonso community, where most chimpanzees of all age classes display the behavior [10]. Sonso chimpanzees typically manufacture leaf-sponges (LSs) by folding and chewing leaves in their mouth, subsequently using them in water sources to drink [39] or, in experimental conditions, to collect honey [21]. <br> In November 2011, members of the community visited a novel sponging site, a recently flooded waterhole located in swamp forest adjacent to a seasonal river. During 6 days of continuous observation, various individuals were observed to develop two tool behaviors,
+novel to the group: ‘‘leaf-sponge re-use’’ and ‘‘moss-sponging.’’
+Both behaviors spread partially through the group (Figure 1 and
+2). We defined ‘‘moss-sponging’’ (M) as the production of a sponge
+consisting entirely of moss or a mixture of leaves and moss. Moss-
+sponging, while rare, has been previously documented in one other chimpanzee community [40] and one bonobo community[13]. </p>
+
+<p> We defined ‘‘leaf-sponge re-use’’(RU1) as utilizing a
+previously fabricated and used sponge that had been discarded
+on a previous visit, in contrast to standard leaf-sponging where an
+individual collects leaves from a branch. A second, more common
+type of leaf-sponge re-use (RU2) consisted of infants obtaining a
+sponge directly from an older relative by begging or scrounging
+(see Materials and Methods). RU1 has been previously reported in
+one other chimpanzee community but only in infants and juveniles
+[38].</p>
+
+<p>The Sonso chimpanzees have been under continuous observa-
+tion for the last 20 years, with regular observations of LS and RU2
+but no recorded observations of RU1 or M, suggesting that we
+observed the initial spread or ‘‘diffusion’’ of two innovations to
+their tool repertoire [41].</p>
+
+<p>The two novel behaviors emerged in an unusual ecological
+context, the discovery of a waterhole that had been repeatedly
+flooded by the river. By analyzing in parallel the spread of the two
+behaviors and comparing the two groups of individuals who
+learned them, we could determine whether the environment alone
+could explain the spread or whether there was an added effect of
+social learning. To this end, we monitored the exact party composition of all individuals present at the waterhole, which
+allowed us to identify who observed whom performing the novel behaviors and to construct the corresponding social network
+models. <br> The different models were fitted to the data by maximum
+likelihood and tested against models with no social transmission,
+using corrected Akaike’s Information Criterion for small sample
+size (AICc). We included potentially confounding factors (age,
+gender) to investigate their effects on learning rates (see Materials
+and Methods) [7,8]. We considered a number of functional forms
+(see Materials and Methods) for the relationship between the
+number of observations and the rate of learning within the models
+fitted to the order in which individuals learned each behavior
+(Order-of-Acquisition Diffusion Analysis, OADA) and models
+fitted to the times at which they learned (Time-of-Acquisition
+Diffusion Analysis, TADA). <br> Here, we only present the results from the best dynamic network order of acquisition model (see
+Supporting Information for details of all models fitted). In the
+best model, the number of observations of the target behavior had
+a log-linear relationship with the rate at which that behavior was
+learned; that is, each observation increased it by a specific ratio.
+We used an information theoretic approach using AICc compare the predictive power of dynamic and static networks and assess the evidence for social transmission.</p>
+
+<h1>Results</h1>
+
+<p> Our analysis starts with the alpha male NK extracting water
+from the waterhole and fabricating a moss-sponge (M, November 14, 2011; 9:05 a.m.), while being observed by the adult dominant
+female NB. Over the following 6 day period, the waterhole was
+revisited regularly and we observed a further seven individuals
+fabricating and using moss-sponges (M). For six of them, we could
+establish that they had observed M before (see ‘‘Audience’’criterion in Materials and Methods). For the seventh individual, the dominant adult female KW, we could not confirm this, and we treat her as having independently innovated M (November 16, 2011; 9:07 a.m.), although this happened less than 1 min after having re-used another chimpanzee’s discarded moss-sponge (Figure 1).</p>
+
+<p> Also on the 14th, subadult male FK retrieved and used a discarded LS (RU1). A further eight individuals developed the RU1 behavior, but four of them did so apparently without having observed another individual performing this behavior (Figure 2). <br> Neither MS nor RU1 had previously been recorded in the Sonso community, and we employed NBDA to analyze the patterns of transmission over the 6-d period. The dynamic network NBDA had 12.36 more support than the static network NBDA. Therefore, we report estimates of the effect of social transmission from this model, although results were qualitatively similar for both models (see Supporting Information). For both dynamic and static networks, there was most support for models with social transmission of moss-sponging but not RU1         (dynamic, Total Akaike weight, Swi = 0.754; static, Total Akaike weight,Swi = 0.801), in particular when comparing the support for these models to the support of models with no social transmission of
+either behavior (dynamic, 600,0006; static, 18,0006; Table 1). <br>
+The estimated social transmission effect for moss-sponging was an
+14.96 increase in learning rate for each observation of an
+informed individual performing moss-sponging (95% C.I., 4.7 to
+88.2; Table 2), corresponding to an estimated 84.5% acquiring
+moss-sponging by social transmission (excluding the innovator). </p>
+
+<p> However, this is conservative: One individual
+moss-sponging without any evidence of first observing another
+individual; thus, NBDA assumes she could not have done so with social
+transmission. However, KW acquired M after re-using another chimpanzee’s sponge that contained moss, suggesting social
+the moss sponging behavior, a pathway the network was not intended to
+capture. With KW’s acquisition excluded, the effect of an
+observation is estimated to be a 21.26 increase in learning rate
+(95% C.I., 4.2 to 679), corresponding to an estimated approximate    99.1% acquiring M by social transmission. An additional analysis
+suggests that it is highly unlikely that the social transmission effect for M is an artifact caused by differential exposure to the waterhole (see Supporting Information). </p>
+
+<p> Though we cannot rule out social transmission of RU1 (see
+Table 2), effects were weaker than for M (Swi = 0.246; compared
+with the same social effect, Swi = 0.0003; Table 1). The social
+effect on moss-sponging was conservatively (i.e., with KW included) estimated to be 11.36 stronger than the social effect on RU1 (95% C.I., 4.67 to 72.24). The estimated social transmission effect for RU1 was only an increase of 1.076 for each observation (95% C.I., 0.58 to 2.48), corresponding to an estimated approximate 3.1% acquiring RU1 by social transmission. Taken together, our results demonstrate a social transmission effect for M and a weak social transmission effect for RU1.</p>
+
+<h1>Discussion</h1>
+
+<p>We have applied a novel form of network analysis to investigate
+the spread of two novel tool-use behaviors with the same function,
+which has produced evidence for social learning. The observed patterns of diffusion indicated that visiting a new resource jointly
+to explain the spread of M by individual was not sufficient learning, but that individuals influenced each other during acquisition. Our analyses also made it unlikely that some unknown
+variable influenced both the network structure and the rate at which individuals acquired M. In contrast, we found strong evidence for a social effect on the diffusion of M and a weak one for RU1, indicating that social learning plays a role in the transmission of novel behaviors in wild chimpanzees.</p>
+
+<p> What factors could have favored the emergence of the two novel
+behaviors? In our case, moss-sponging was unlikely to have been
+invented because of a scarcity of leaves, which were widely available
+(see Supporting Information). Moreover, Sonso chimpanzees have
+regularly been observed manufacturing LS at other clay-pits,
+presumably to access minerals (Reynolds V, Lloyd AW, English CJ,
+Lyons P, Dodd H, et al., Budongo Forest chimpanzees’ sodium
+resources: New adaptations, unpublished manuscript), but no moss-
+sponging has ever been documented, despite moss also being widely
+available. Similarly, although chimpanzees routinely abandon LSs
+in and around tree holes throughout the forest, RU1 has never been
+observed (although RU2 is common). <br> A possible factor is that this site appeared to attract larger groups and foster greater competition than that which has usually been observed at water sources, potentially because of unusually high mineral levels        (Reynolds V, Lloyd AW, English CJ, Lyons P, Dodd H, et al., Budongo Forest chimpanzees’ sodium resources: New adaptations, unpublished
+manuscript). It is plausible that the high levels of competition at the new site favored innovation of moss-sponging. </p>
+
+<p>However, increased physical proximity alone could not explain the subsequent spread of the behavior in the group, as both moss and leaves were collected within 5 m from the waterhole, and leaf-sponging remained more frequent than moss-sponging (see Supporting Information), possibly due to chimpanzees’ conservatism [42–45]. The emergence of RU1 may reflect increased opportunities for encountering other chimpanzees’ leave-sponges. This interaction with discarded sponges could be interpreted as a kind of social learning, not influenced by direct observations, but akin to local or stimulus enhancement [46].</p>
+
+<p> However, it is unclear what specific information could be retrieved: a discarded re-used sponge does not yield the information that it has been or may be ‘‘re-used’’ relative to a sponge that has only been used once. Only in the re-use of a moss-sponge by KW did some information appear to be gained: that moss can be employed as a
+sponging material, as she subsequently developed moss-sponging. In
+contrast, our NBDA analysis showed that the subsequent diffusion
+of moss-sponging occurred along the innovators’ social network.
+Although ecological factors may have provided favorable conditions
+for the initial innovation of moss-sponging, this cannot explain why,
+in the absence of social transmission, eight chimpanzees converged
+on the solution within 6 d. Instead, it seems likely that while its
+innovation was ecologically driven, the spread through the group
+was a result of social transmission, paralleling findings in early
+hominins [47]. </p>
+
+<p>Our study adds new evidence supporting the hypothesis that
+some of the behavioral diversity seen in wild chimpanzees is the
+result of social transmission and can therefore be interpreted as
+cultural, especially when considered together with previous results
+from the wild [10] and captivity [48]. Our findings were made
+possible by employing a novel version of the NBDA that can
+incorporate information about the time course of the recorded
+observations. In doing so, our model captures a key aspect of social
+learning—that is, who observed the novel behavior at what time
+and from whom. In previous static versions of NBDA, for example
+in humpback whales, long-term association patterns were used to
+infer who had observed whom [8]. Our dynamic model requires
+fully habituated individuals that can be closely observed [49];
+however, where this is possible dynamic networks were more powerful as demonstrated by the fact supported than corresponding static networks.</p>
+
+<p> Previous studies of vervet monkeys [50,51] and captive
+chimpanzees [52] have found an influence of the model’s rank
+on diffusion of behavior. Although our small sample size did not
+allow us to analyze rank effects, moss-sponging was first invented
+by the alpha male before spreading to two other individuals. And
+similarly, the second inventor, KW, was dominant over all the
+individuals who learned moss-sponging from her [53]. As all individuals appeared to develop the behavior directly after having
+observed it, it was not possible to make inferences on whether
+dominant individuals transmitted the behavior more effectively than others. Nevertheless, it is interesting to note that the social
+learning effect was first demonstrated by lower ranking individuals. </p>
+
+<p> Although our results suggest social learning of moss-sponging
+via direct observation, the nature of the social learning mechanism
+remains unclear [54,55]. Chimpanzees display a range of social
+learning mechanisms, including emulation and imitation [28–34],
+similarly to some monkey species [54,55]. Teaching and imitation
+are often said to be central in the diffusion of human culture
+learning mechanisms can also [35,36,56,57], but other social
+generate behavioral traditions [31,58]. For example, early
+hominins who contributed to the Oldowan technology (2.6 mya)
+may have relied on emulative processes rather than imitation
+[47,59–61], in contrast to the later Acheulean technology [62,63].
+However, as our results do not allow us to identify the precise
+learning mechanism employed during the social transmission of
+moss-sponging, it remains possible that this may vary from those
+on which humans rely to transmit their culture. <br> Until the precise nature of these learning mechanisms is established, questions will remain about potential evolutionary discontinuity in the transmission of ‘‘cultural’’ behavior [36].</p>
+
+<p>Nevertheless, although social learning mechanisms are important, our data support a growing literature that refutes a strong
+distinction between individual and social learning. Both rely on the
+same basic understanding of physical cognition and only differ in
+the presence or absence of a task-related social memory [64]. How
+existing techniques were modified and what was transmitted may
+have been equally important in the first stages of human evolution.
+In our view, further progress in the study of animal culture must go
+beyond the surface behavioral level, as is usually practiced, and
+address the cognitive and neural processes involved during innovation and social transmission [65]. <br> For instance, both re-use and moss-sponging appear to be modifications of existing behaviors, rather than fully novel innovations. Observers may have been aided by an already existing mental representation when acquiring the novel behavior [66,67] that they updated after observing knowledgeable individuals [68,69]. Studying these processes in more detail in our closest relative and other animals may thus inform our understanding of early hominin culture and the evolutionary processes that eventually led to modern human cultures [70–72]. </p>
+
+<h1>Materials and Methods</h1>
+
+<h2>Ethics Statement</h2>
+
+<p>Permission to conduct this research was given by the Uganda
+Wildlife Authority (UWA), the Ugandan National Council for
+Science and Technology (UNCST), and the National Forestry
+Authority (NFA).</p>
+
+<h2>Study Site and Subjects</h2>
+
+<p> The Budongo Conservation Field Station was established in
+1990 in the Budongo Forest Reserve, which lies in the western Rift
+Valley in Uganda (1u350–1u550 N, 31u180–31u420 E) at a mean
+altitude of 1,050 m. The 793 km2 Reserve includes 482 km2 of
+continuous medium-altitude semideciduous forest cover. The
+Sonso community has been under continuous observation since
+the early 1990s with individuals individually known and habitu-
+ated to human observers for about 20 y [39].</p>
+
+<p> During data collection in November 2011, the Sonso study
+community of chimpanzees consisted of 68 named individuals.
+Following Reynolds [39], we defined age groups as infants (0–4 y),
+juveniles (5–9 y), subadults (m, 10–15 y; f, 10–14 y), and adults (m,
+16+ y; f, 15+ y). Using these categories, the group composition was
+30 adults (10 males and 20 females), 15 subadults (4 males and 11
+females), 13 juveniles (4 males and 9 females), and 10 infants (3
+males and 7 females).</p>
+
+<h2>Procedure</h2>
+
+<h3>Data Collection and Site Location.</h3> 
+<p>Data were collected on November 14–19, 2011, between 7 a.m. and 5 p.m., at a socially contested waterhole between the roots of two trees (Cynometra alexandrii and Mimusops bagshawei) located in an area of recently flooded swamp forest approximately 5 m from a seasonal river (Figure S1). The hole contained high mineral levels compared with other nearby water sources, such as the river (Na, K, Ca, Mn, Cl) (Reynolds V, Lloyd AW, English CJ, Lyons P, Dodd H, et al. Budongo Forest chimpanzees’ sodium resources: New adaptations,
+unpublished manuscript). All observed cases of leaf-tool fabrication
+and use were recorded using a hand-held high-definition
+camcorder (Panasonic HD60) [73].</p>
+
+<h3>Sponge Material</h3> 
+<p>Although leaf-sponging was focused on the waterhole, there were a number of additional stagnant puddles within a 3-m radius where individuals used LS tools and drank directly (Figure S2). Leaves used to manufacture sponges were identified as Lasiodiscus mildbraedii, Lychnodiscus cerospermus, and Agromolera subspecies. Mosses were collected in the water-hole area when chimpanzees were absent. Species were identified as Pilotrichella cuspidate, Racopilum africanum (Mitt), and Pinnatella minuta (Mitt).Additionally, two liverwort species, Plagiochila strictifolia (Steph)and Plagiochila pinniflora (Steph), were identified. These primitive plants looked similar to flattened mosses and may have been part of the moss-sponges.
+
+<h3>Definitions</h3><br> 
+<p>Following Whiten et al. [11], LS is ‘‘wad of leaves/vegetation chewed and used to collect water, then squeezed in mouth.’’</p>
+
+<p>Moss-sponge, following Lanjouw [40], is defined as follows:
+‘‘chimpanzees collected moss off the bark of the trees,loosely
+rolled it into a bundle, generally not bigger than a few centimeters
+wide.’’ Moss-sponge was inserted into the mouth at least once
+before sponging. In both previous cases, the sponges appeared
+exclusively composed of moss despite leaves being freely available.
+In Sonso, moss may be combined, but not necessarily, with leaves
+in the initial fabrication or added to an existing LS (Videos S1 and
+S2).</p>
+
+<p> Fabrication is the removal/collection of leaves or moss and
+fabrication of sponge in mouth, but sponge is not subsequently
+dipped into water, for example, as access to the sponging location
+is blocked by another individual.</p>
+
+<p>Use is defined as dipping of sponge into water and insertion at least once into mouth to suck the water. Re-use (type 1 and 2) is defined as follows: We coded as re-use type 1 (Video S3) the recovery of a used sponge that had been (or possibly by the same fabricated by another individual on a previous visit to the sponging location) and discarded. We distinguished this from re-use 2, a commonly observed behavior in which infants beg or scrounge for sponges made by their mother or older maternal siblings, as this is done while the older relative is using the sponge, as opposed to after they have discarded it (Video S4). In Sonso, RU2 appears limited to immature individuals and has never been recorded in mature
+individuals. Similarly, in West African chimpanzees (P. t. verus),
+both RU1 and RU2 are observed, but the behavior is only displayed by infants and juveniles [38]. </p>
+
+<p>Drinking is defined as drinking directly with the mouth from the water source.</p>
+
+<h3>Coding</h3><br> <p>Video files were uploaded to an Apple MacBook Prousing iMovie and edited into discrete clips for analysis. We coded
+the following variables for all occurrences of leaf-tool fabrication,
+(re-)use, and direct drinking: date,identity, party composition, specific audience (individuals within 1 m), fabrication of sponge (removal of material and fabrication of sponge in mouth, collection of discarded sponge from the ground), use of sponge for drinking (sponge dipped in water and back to mouth at least once), sponge material (leaf or moss), and location (sponging-hole or puddle).</p>
+
+<h3>Audience</h3>
+
+<p>Individuals within 1 m of the model while the model was fabricating the sponge, but excluding individuals with either their head turned fully away or with their view obstructed by the environment (for example, sitting behind a tree-buttress or
+with their head inside the waterhole), were considered to be
+‘‘potential observers.’’A second more restrictive definition was also applied for the ‘‘specific audience’’ in which individuals had to be within 1 m of the model and were considered to have actively looked at the model while the sponge was fabricated. This specific audience included individuals who were seen to shift their eye gaze to the model or to track the model’s movements with their head
+movements or who had their head facing the model (as per
+[74]). </p>
+
+<h3>Network Reconstruction</h3> 
+<p>A separate network was constructed for M and RU1. In each case, a directed edge was considered to exist between two individuals, from X to Y if there was at least one registered occurrence of X observing Y performing the RU1 or M behavior prior to X acquiring the
+relevant behavior themselves. The latter criterion was included as
+behavior can only be transmitted by observations that occur prior
+to acquisition of behavior and such that a positive result could not
+be indicative of homophily—that is, individuals who acquire a
+behavior being subsequently attracted to one another and thus
+observing each other more. The weight of the directed edge, aYX,
+was equal to the number of such occurrences.</p>
+
+<p> For the dynamic social network, the edges were allowed to vary
+over time. Here, aYX(t) was taken to be the number of times X had
+observed Y performing the target behavior prior to time t. We also
+considered a binary dynamic network, where aYX(t) was taken to
+be 1 if X had observed Y performing the target behavior prior to
+time t, and 0 otherwise. We included this to allow for the
+possibility that a single observation of the target behavior may be
+sufficient for a maximal social transmission effect to occur. </p>
+
+<h1>Statistical Analysis</h1>
+
+<p>To analyze the spread of the behaviors, we entered information
+about all individuals who used at least one tool at the tree-hole in
+NBDA models (N = 30). We ran an OADA [2] treating M and RU1 as independent diffusions included in the same model, allowing us to test for difference in the social transmission effect. We used the R script model for NBDA Version 1.2.11 available at
+http://lalandlab.st-andrews.ac.uk/freeware.html.</p>
+
+<p>NBDA is based on survival analysis models and so assumes that
+the spread of the behavior is a stochastic process and that a naı¨ve
+individual, i, has at any time a given learning rate, li tð Þ, for each behavior pattern in question. We included a number of potentially confounding variables: x1, age (in years); x2, time spent in the community (in years); x3, sex (0/1 for female/male, respectively). These data were extracted from the Sonso community official list of individuals downloaded at http://www.budongo.org/. There is little support for an important effect of any individual-level variable (see Table S2). We considered both conventional NBDA
+models with the static social network and expanded the approach
+to include the dynamic network described above. <br> For the static
+network NBDA, there are two functional forms for inclusion of
+individual-level variables in an NBDA [2], a model in which the
+interaction between social transmission and the individual-level
+variables is taken to be additive.</p>
+
+<p>Problems with Equations and Arguments</p>
+
+<p>A static network based on observations does not fully allow for
+the time course of observations. To illustrate, one can imagine a
+group of three individuals: A, B, and C. A learns the behavior first.
+Next, B observes A performing the behavior three times and then
+learns the behavior. Finally, C observes A performing the behavior
+three times and subsequently learns the behavior last. A static
+network would represent the network as having links of strength 3
+from A to both B and C, so an NBDA model based on such a
+network would predict that B and C were equally likely to learn
+second. In fact, we would expect B to be more likely to learn
+second, because B observed A performing the behavior first. A
+dynamic network allows us to incorporate this information into the
+NBDA.</p>
+
+<p>We considered a number of different functional forms for the
+dynamic network. First, we considered a model in which each
+successive observation of the target behavior had a linear
+relationship with the rate of learning. As with the static network
+NBDA, we considered models in which the interaction with individual-level variables was taken either to be additive or to be
+multiplicative. These models are identical to those given above,
+except aij is replaced with aij(t). We also considered a form where the effect of each successive observation of the target behavior had a linear effect on the log scale, on the rate of learning—that is, each successive observation multiplied the rate of learning by exp(s).</p>
+
+<p>For our dynamic network, the log-linear model is equivalent to
+including the number of observations of the target behavior prior
+to time t as a time-varying covariate in a Cox model [75]. This
+allowed us to use the survival package [76] to fit the models in the
+R statistical environment [77] to include a random (or frailty)
+effect to account for the fact that each diffusion included the same
+individuals. However, the random effect was estimated to be
+negligible and had no effect on the results, corresponding to the
+fact that each behavior diffused through a different subset of the
+group (with the exception of KW). Consequently, we dropped the
+random effect from the analysis. The model using the binary
+dynamic network is specified using the same equation as the log-
+linear model. The likelihood function given above for the static
+network NBDA is valid for all models given here.</p>
+
+<p>We used an information theoretic approach using Akaike’s
+Information Criterion corrected for sample size (AICc) to allow for
+model selection uncertainty. This allowed us to estimate the
+support for each variable/model of social transmission, calculate
+model-averaged estimates of effects, and construct unconditional
+confidence intervals using profile likelihood methods [78].</p>
+
+<p>There was stronger evidence for social transmission of RU1
+(same social effect as for M, Swi = 0.289; different social effects,
+Swi = 0.268) though still more support for social transmission of
+moss-sponging only (Swi = 0.443). For moss-sponging,
+s was estimated at 42.5 (95% C.I. = 6.74–814). corresponding to
+84.3% (77.5%–85.6%) of acquisition events by social transmission,
+excluding the innovator. For leaf-sponging re-use, s was estimated
+to be 1.18 (95% C.I. = 0–6.78) corresponding to 22.3% (0%–
+36.4%) of acquisition events occurring by social transmission. The
+difference in s parameters (M – RU1) was estimated to be 41.3
+(95% C.I. = 5.16–800). </p>
+
+<p>We calculated an exposure score for each chimpanzee for each
+behavior pattern as being the rate at which each chimpanzee
+interacted with the waterhole—that is, initiated bouts of normal
+leaf-sponging behavior. If a chimpanzee did not acquire the
+behavior pattern in question (M or RU1), exposure was calculated
+over the whole period for which we observed the chimpanzees at
+the waterhole ( = number of interactions/total observation time).
+For chimpanzees that acquired a behavior pattern, the corre-
+sponding exposure score was calculated over the time preceding
+acquisition of that behavior (e.g. = number of interactions prior to
+acquiring M/time at which M was acquired), as exposures
+experienced after acquiring M (for example) cannot exert a causal
+effect on the acquisition of M.</p>
+
+<h1>Supporting Information</h1>
+<p>For supporting information including figures, please see the journal online.</p>
+
+<h1>Author Summary</h1>
+
+<p>Chimpanzees are widely considered as the most ‘‘cultural’’
+of all animals, despite the lack of direct evidence for the
+spread of novel behaviors through social learning in the
+wild. Here, we present a novel, dynamic network-based
+diffusion analysis to describe the acquisition patterns of
+novel tool-use behavior in the Sonso chimpanzee com-
+munity of Budongo Forest, Uganda. <br> We find strong
+evidence for social transmission of ‘‘moss-sponging’’ (the
+production of a sponge consisting of moss) along the
+innovators’ social network, demonstrating that wild chim-
+panzees learn novel tool-use behaviors from each other
+and supporting the more general claim that some of the
+observed behavioral diversity in wild chimpanzees should
+be interpreted as ‘‘cultural.’’ Our model also estimated
+that, for each new observation, naı¨ve individuals enhanced
+their chances of developing moss-sponging by a factor of
+15. We conclude that group-specific behavioral variants
+can be socially learned in wild chimpanzees, addressing an
+important critique of the claim of culture in our closest
+relatives.</p>
+
+<h1>Acknowledgments</h1>
+
+<p>We thank Dr. David Long of the Royal Botanic Gardens in Edinburgh and Geresomu Muhumuza for help with identification of the moss and tree species. We thank Luke Rendell for assistance with the NBDA analyses and Dick Byrne and Andy Whiten for earlier discussion about the ideas developed in the manuscript.</p>
+
+<h1>References</h1>
+<p>For the bibliography (89 references total), please see the journal online.</p>
+
+
+<h6>Citation: Hobaiter C, Poisot T, Zuberbuhler K, Hoppitt W, Gruber T (2014) Social Network Analysis Shows Direct Evidence for Social Transmission of Tool Use in Wild Chimpanzees. <br> PLoS Biol 12(9): e1001960. doi:10.1371/journal.pbio.1001960</h6>
+
+<h6>Received March 11, 2014;<br> Accepted August 21, 2014; <br>Published September 30, 2014<br> Copyright: ß 2014 Hobaiter et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</h6>
+
+<h6>Data Availability: The authors confirm that all data underlying the findings are fully available without restriction at Dryad Digital Repository. Openly available via http://dx.doi.org/10.5061/dryad.m6s21.<h6>
+
+<h6>Funding: We are grateful to the Royal Zoological Society of Scotland for providing core funding for the Budongo Conservation Field Station. The fieldwork of CH was funded by the Leverhulme Trust, the Lucie Burgers Stichting, and the British Academy. TP was funded by the Canadian Research Chair in Continental Ecosystem Ecology, and received computational support from the Theoretical Ecosystem Ecology group at UQAR. The research leading to these results has received funding from the People Programme (Marie Curie Actions) and from the European Research Council under the European Union’s Seventh Framework Programme (FP7/2007–2013) REA grant agreement nu329197 awarded to TG, ERC grant agreement nu 283871 awarded to KZ. WH was funded by a BBSRC grant (BB/I007997/1). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</h6>
+
+<h6>Competing Interests: The authors have declared that no competing interests exist.</h6>
+
+
+<h6>PLOS Biology | www.plosbiology.org<br>
+September 2014 | Volume 12 | Issue 9 | e1001960</h6>
+
+<h6>Figure 1. Visualization of the static interaction networks for the moss-sponging behavior for all 30 individuals. Graphs are laid out using the Fruchterman–Reingold weighted algorithm. Labels on the nodes indicate the identity of individuals (see Supporting Information).<br>
+Individuals with large label size developed the behavior, whereas individuals with small label size did not. Numbers under the large label indicate the order of acquisition of the behavior. The width of the arrows linking individuals is proportional to the number of times an interaction event was recorded between any two individuals and represented according to the convention ‘‘XRY’’ means that Y was observed by X. Dashed line indicates potential product-based social learning by individual KW who re-used a moss-sponge. Data were deposited in the Dryad repository: http://dx.doi.org/10.5061/dryad.m6s21.doi:10.1371/journal.pbio.1001960.g001.</h6>
+
+<h6>
+Figure 2. Visualization of the static interaction networks for the RU1 behavior for all 30 individuals. Graphs are laid out using the
+Fruchterman–Reingold weighted algorithm. Labels on the nodes indicate the identity of individuals (see Supporting Information). Individuals with large label size developed the behavior, whereas individuals with small label size did not. Numbers under the large label indicate the order of acquisition of the behavior. The width of the arrows linking individuals is proportional to the number of times an interaction event was recorded between any two individuals and represented according to the convention ‘‘XRY’’ means that Y was observed by X. <br>Data were deposited in the Dryad repository: http://dx.doi.org/10.5061/dryad.m6s21. <br> doi:10.1371/journal.pbio.1001960.g002
+</h6>
